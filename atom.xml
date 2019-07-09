@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.patrickzhu.club/"/>
-  <updated>2019-07-09T05:53:08.556Z</updated>
+  <updated>2019-07-09T11:35:57.121Z</updated>
   <id>http://www.patrickzhu.club/</id>
   
   <author>
@@ -17,40 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My first blog</title>
-    <link href="http://www.patrickzhu.club/2019/07/09/My-first-blog/"/>
-    <id>http://www.patrickzhu.club/2019/07/09/My-first-blog/</id>
-    <published>2019-07-09T05:50:22.000Z</published>
-    <updated>2019-07-09T05:53:08.556Z</updated>
+    <title>无题</title>
+    <link href="http://www.patrickzhu.club/2019/07/09/%E8%AE%B0%E5%BD%95-1/%E8%AE%B0%E5%BD%95-1/"/>
+    <id>http://www.patrickzhu.club/2019/07/09/记录-1/记录-1/</id>
+    <published>2019-07-09T11:25:11.000Z</published>
+    <updated>2019-07-09T11:35:57.121Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Vocabulary</strong></p><ul><li>Plight 困境</li><li>Vivid = Robust</li><li>Modification 修订</li><li>Elementary school</li><li>Harbor = embrace </li><li><em>College*</em></li><li>Freshmen</li><li>Sophomore</li><li>Junior</li><li>Senior</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;Vocabulary&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plight 困境&lt;/li&gt;
-&lt;li&gt;Vivid = Robust&lt;/li&gt;
-&lt;li&gt;Modification 修订&lt;/li&gt;
-&lt;li&gt;Elementary school&lt;/li&gt;
-&lt;li&gt;H
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://www.patrickzhu.club/2019/07/08/%E8%AE%B0%E5%BD%95/"/>
-    <id>http://www.patrickzhu.club/2019/07/08/记录/</id>
-    <published>2019-07-08T15:53:48.501Z</published>
-    <updated>2019-07-09T10:57:51.596Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><p><strong>Jul 8, 2019</strong><br>14:00开始部署Hexo<br>20:00完成本地服务器打开<br>23:00卡在了关于SSH keys连接GitHub的问题<br><img src="%E8%AE%B0%E5%BD%95/9E3C2F9E-E61C-4DDA-8E20-28A8638E533F.JPG" alt></p><hr><p><strong>Jul 9, 2019</strong><br>9:00完成SSH与GitHub关联 终端调试发现是局域网连接问题<br>10:00完成本地blog文件上传GitHub<br>10:20成功绑定域名 <a href="http://www.zhupx.com" target="_blank" rel="noopener">www.zhupx.com</a><br>13:00完成第一篇博客上传<br>14:00完成主题配置 <em>Next</em><br>16:00完成个性化配置<br>17:00个人博客初步建设成功<img src="%E8%AE%B0%E5%BD%95/F488E4E3-6CEB-4156-9B2D-B7EAC4CA36C8.JPG" alt></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><p><strong>Jul 8, 2019</strong><br>14:00开始部署Hexo<br>20:00完成本地服务器打开<br>23:00卡在了关于SSH keys连接GitHub的问题</p><p><img src="%E8%AE%B0%E5%BD%95-1/Screenshot1.jpg" alt="SSH连接成功"></p><hr><p><strong>Jul 9, 2019</strong><br>9:00完成SSH与GitHub关联 终端调试发现是局域网连接问题<br>10:00完成本地blog文件上传GitHub<br>10:20成功绑定域名 <a href="http://www.patrickzhu.club">www.patrickzhu.club</a><br>13:00完成第一篇博客上传<br>14:00完成主题配置 <em>Next</em><br>16:00完成个性化配置<br>17:00个人博客初步建设成功! </p>]]></content>
     
     <summary type="html">
     
