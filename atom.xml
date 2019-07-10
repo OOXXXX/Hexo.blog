@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.patrickzhu.club/"/>
-  <updated>2019-07-10T15:24:56.560Z</updated>
+  <updated>2019-07-10T15:32:59.202Z</updated>
   <id>http://www.patrickzhu.club/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.patrickzhu.club/2019/07/09/%E8%AE%B0%E5%BD%95-1/%E8%AE%B0%E5%BD%95-1/"/>
     <id>http://www.patrickzhu.club/2019/07/09/记录-1/记录-1/</id>
     <published>2019-07-09T11:25:11.000Z</published>
-    <updated>2019-07-10T15:24:56.560Z</updated>
+    <updated>2019-07-10T15:32:59.202Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><p><strong>Jul 8, 2019</strong><br>14:00开始部署Hexo<br>20:00完成本地服务器打开<br>23:00卡在了关于SSH keys连接GitHub的问题</p><p><img src="https://s2.ax1x.com/2019/07/10/ZgsQ8f.png" alt="avatar"></p><hr><p><strong>Jul 9, 2019</strong><br>9:00完成SSH与GitHub关联 终端调试发现是局域网连接问题<br>10:00完成本地blog文件上传GitHub<br>10:20成功绑定域名 <a href="http://www.patrickzhu.club">www.patrickzhu.club</a><br>13:00完成第一篇博客上传<br>14:00完成主题配置 <em>Next</em><br>16:00完成个性化配置<br>17:00个人博客初步建设成功! </p><p><img src="https://thumbnail0.baidupcs.com/thumbnail/04622073b2954e50f28685daa1d0a43e?fid=3668327675-250528-951805304888166&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-fw5CHL%2bumghk5Xei6nuzWEow8qk%3d&expires=8h&chkbd=0&chkv=0&dp-logid=4403400693706238233&dp-callid=0&time=1562673600&size=c1280_u800&quality=90&vuk=3668327675&ft=image&autopolicy=1" alt="avatar"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><p><strong>Jul 8, 2019</strong><br>14:00开始部署Hexo<br>20:00完成本地服务器打开<br>23:00卡在了关于SSH keys连接GitHub的问题</p><p><img src="https://s2.ax1x.com/2019/07/10/ZgsQ8f.png" alt="avatar"></p><hr><p><strong>Jul 9, 2019</strong><br>9:00完成SSH与GitHub关联 终端调试发现是局域网连接问题<br>10:00完成本地blog文件上传GitHub<br>10:20成功绑定域名 <a href="http://www.patrickzhu.club">www.patrickzhu.club</a><br>13:00完成第一篇博客上传<br>14:00完成主题配置 <em>Next</em><br>16:00完成个性化配置<br>17:00个人博客初步建设成功! </p><p><img src="https://s2.ax1x.com/2019/07/10/ZgscZ9.png" alt="avatar"></p>]]></content>
     
     <summary type="html">
     
