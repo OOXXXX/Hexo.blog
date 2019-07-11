@@ -1988,7 +1988,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0fffeb;
+  background: #ff947a;
 }
 .feed-link,
 .chat {
@@ -3250,7 +3250,7 @@ ul.breadcrumb li+li:last-child {
 }
 .headband {
   height: 3px;
-  background: #373b44 #4286f4;
+  background: #373b44;
 }
 .site-meta {
   padding: 20px 0;
@@ -3260,5 +3260,23 @@ ul.breadcrumb li+li:last-child {
 .site-subtitle {
   margin-top: 10px;
   font-size: 13px;
-  color: #fff;
+  color: #373b44;
+}
+.posts-expand .post-title-link::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #49b1f5;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  -moz-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  -o-transform: scaleX(0);
+  transform: scaleX(0);
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 0s;
 }
