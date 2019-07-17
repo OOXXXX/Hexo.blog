@@ -44,9 +44,9 @@
     <link href="http://www.patrickzhu.club/2019/07/09/%E8%AE%B0%E5%BD%95-1/%E8%AE%B0%E5%BD%95-1/"/>
     <id>http://www.patrickzhu.club/2019/07/09/记录-1/记录-1/</id>
     <published>2019-07-09T11:25:11.000Z</published>
-    <updated>2019-07-10T16:17:13.283Z</updated>
+    <updated>2019-07-17T02:45:32.961Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><p><strong>Jul 8, 2019</strong><br>14:00开始部署Hexo<br>20:00完成本地服务器打开<br>23:00卡在了关于SSH keys连接GitHub的问题</p><p><img src="https://s2.ax1x.com/2019/07/10/ZgsQ8f.png" alt="avatar"></p><hr><p><strong>Jul 9, 2019</strong><br>9:00完成SSH与GitHub关联 终端调试发现是局域网连接问题<br>10:00完成本地blog文件上传GitHub<br>10:20成功绑定域名 <a href="http://www.patrickzhu.club">www.patrickzhu.club</a><br>13:00完成第一篇博客上传<br>14:00完成主题配置 <em>Next</em><br>16:00完成个性化配置<br>17:00个人博客初步建设成功! </p><p><img src="https://s2.ax1x.com/2019/07/10/ZgscZ9.png" alt="avatar"></p><hr><p><strong>Jul 10, 2019</strong><br>一上午都在雅思模考…<br>回家以后发现22端口又正常了？？<br>15:00 添加博客访问人数<br>15:40 在博客右上角添加了一只白猫🐈<br>23:00 发现博客图片只能在本地加载 调试后发现是百度云不支持共享链接的问题 于是改将图片发送到图床 重新上传成功显示 这里再次吐槽百度</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><p><strong>Jul 8, 2019</strong><br>14:00开始部署Hexo<br>20:00完成本地服务器打开<br>23:00卡在了关于SSH keys连接GitHub的问题</p><p><img src="https://s2.ax1x.com/2019/07/10/ZgsQ8f.png" alt="avatar"></p><hr><p><strong>Jul 9, 2019</strong><br>9:00完成SSH与GitHub关联 终端调试发现是局域网连接问题<br>10:00完成本地blog文件上传GitHub<br>10:20成功绑定域名 <a href="http://www.patrickzhu.club">www.patrickzhu.club</a><br>13:00完成第一篇博客上传<br>14:00完成主题配置 <em>Next</em><br>16:00完成个性化配置<br>17:00个人博客初步建设成功! </p><p><img src="https://s2.ax1x.com/2019/07/10/ZgscZ9.png" alt="avatar"></p><hr><p><strong>Jul 10, 2019</strong><br>一上午都在雅思模考…<br>回家以后发现22端口又正常了？？<br>15:00 添加博客访问人数<br>15:40 在博客右上角添加了一只白猫🐈<br>23:00 发现博客图片只能在本地加载 调试后发现是百度云不支持共享链接的问题 于是改将图片发送到图床 重新上传成功显示 这里再次吐槽百度</p><hr><p><strong>Jul 17,2019</strong><br>更新了网站图标 需要重启生效<br>另外 强制网站使用https 在浏览器地址栏能看到小锁了🔒</p><p><img src="https://s2.ax1x.com/2019/07/17/ZqRXhd.png" alt="avatar"></p>]]></content>
     
     <summary type="html">
     
