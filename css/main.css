@@ -1819,16 +1819,6 @@ pre .javascript .function {
   height: 2px;
   background: #37c6c0;
 }
-.post-body p a {
-  color: #f15a57;
-  border-bottom: none;
-  border-bottom: 1px solid #f15a57;
-}
-.post-body p a:hover {
-  color: #877dbb;
-  border-bottom: none;
-  border-bottom: 1px solid #877dbb;
-}
 .sidebar {
   position: fixed;
   right: 0;
@@ -2008,7 +1998,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #53a391;
+  background: #0914ff;
 }
 .feed-link,
 .chat {
