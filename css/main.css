@@ -1998,7 +1998,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #acf0ff;
+  background: #ffff78;
 }
 .feed-link,
 .chat {
@@ -3289,4 +3289,10 @@ ul.breadcrumb li+li:last-child {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
+}
+body {
+  background: url("https://s2.ax1x.com/2019/07/22/eiebVI.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
