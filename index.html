@@ -847,6 +847,44 @@ Jul 9, 20199:00完成SSH与GitHub关联 终端调试发现是局域网连接问�
           </div>
           
 
+<div id="gitment_title" class="gitment_title"></div>
+<div id="container" style="display:none"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script>
+  const myTheme = {
+    render(state, instance) {
+      const container = document.createElement('div');
+      container.lang = "en-US";
+      container.className = 'gitment-container gitment-root-container';
+      container.appendChild(instance.renderHeader(state, instance));
+      container.appendChild(instance.renderEditor(state, instance));
+      container.appendChild(instance.renderComments(state, instance));
+      container.appendChild(instance.renderFooter(state, instance));
+      return container;
+    }
+  }
+
+  function showGitment() {
+    $("#gitment_title").attr("style", "display:none");
+    $("#container").attr("style", "").addClass("gitment_container");
+    var gitment = new Gitment({
+      id: decodeURI(window.location.pathname),
+      theme: myTheme,
+      owner: 'OOXXXX',
+      repo: 'OOXXXX.github.io',
+      oauth: {
+        client_id: 'c8a4dcc037ba75168955',
+        client_secret: 'cd64b4abf7fa36d555842a77da3a3c61987a5caf'
+      }
+    });
+    gitment.render('container');
+  }
+
+  showGitment();
+</script>
+
         </div>
         
           
